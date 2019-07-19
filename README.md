@@ -46,7 +46,7 @@ Take responsibility for your code!
 ### Python
 * [`unittest`](https://docs.python.org/3/library/unittest.html)
 
-## Software Review based on the `Job Aid`
+## Review
 Improve quality by team work!
 
 * [The `Job Aid` from FAA](https://elsmar.com/elsmarqualityforum/attachments/jobaid-r1-1-pdf.14401)
