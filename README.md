@@ -29,7 +29,7 @@ Depending on the goal of the project, you may choose one of the following.
 
 2. Algorithm design 
  * theory oriented with more math
- * tools: pencil and paper, Matlab, Jupyter + PyCharm
+ * tools: pencil and paper, white board, Matlab, Jupyter + PyCharm
  
 3. Automotive
  * Automotive SPICE
