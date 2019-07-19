@@ -50,7 +50,7 @@ Take responsibility for your code!
 * Python [`unittest`](https://docs.python.org/3/library/unittest.html)
 
 ### 2. Review
-Improve quality by team work!
+Improve quality by teamwork!
 
 * [The `Job Aid` from FAA](https://elsmar.com/elsmarqualityforum/attachments/jobaid-r1-1-pdf.14401)
 * [Korean Gudeline for using JobAid from SUDAM LAB](https://imnow.tistory.com/entry/14-DO178-소프트웨어-리뷰Software-Review-–-Job-Aid-1)
