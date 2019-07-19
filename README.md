@@ -3,11 +3,18 @@
 
 ## Coding standard
 
-1. Clean code by Robert C. Martin
- * [book](https://www.oreilly.com/library/view/clean-code/9780136083238)
+1. Clean
+ * [Clean code (book) by Robert C. Martin](https://www.oreilly.com/library/view/clean-code/9780136083238)
  * [video](https://www.oreilly.com/library/view/clean-code/9780134661742)
- 
-2. Effective code
+  
+2. Effective
+ * [Scott Meyers's books](https://www.aristeia.com/books.html)
+ * [Effective Python by Brett Slatkin](https://effectivepython.com) [github](https://github.com/bslatkin/effectivepython)
+
+3. Refactoring 
+ * [Refactoring by Martin Fowler, 2nd ed.](https://martinfowler.com/books/refactoring.html)
+ * [Continuous Refactoring](https://www.codit.eu/blog/continuous-refactoring/)
+
 
 
 ## Unit Test
