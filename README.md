@@ -4,20 +4,20 @@
 ## Coding standard: *CERT*
 
 1. **C**lean
- * [Clean code (book) by Robert C. Martin](https://www.oreilly.com/library/view/clean-code/9780136083238)
+ * [Clean code (book)](https://www.oreilly.com/library/view/clean-code/9780136083238) by Robert C. Martin
  * [video](https://www.oreilly.com/library/view/clean-code/9780134661742)
   
 2. **E**ffective
  * [Scott Meyers's books](https://www.aristeia.com/books.html)
- * [Effective Python by Brett Slatkin](https://effectivepython.com) [github](https://github.com/bslatkin/effectivepython)
+ * [Effective Python](https://effectivepython.com) [github](https://github.com/bslatkin/effectivepython) by Brett Slatkin
 
 3. **R**efactoring 
- * [Refactoring by Martin Fowler, 2nd ed.](https://martinfowler.com/books/refactoring.html)
+ * [Refactoring](https://martinfowler.com/books/refactoring.html) by Martin Fowler, 2nd ed.
  * [Continuous Refactoring](https://www.codit.eu/blog/continuous-refactoring/)
 
 4. **T**est, test, and test
- * [ISO/IEC/IEEE 29119 software testing standards : a practitioner's guide by Stuart Reid](https://lib.inu.ac.kr/search/detail/CATCAZ000000823052)
- * [Test Driven Development by Kent Beck ](https://www.pearson.com/us/higher-education/program/Beck-Test-Driven-Development-By-Example/PGM206172.html)
+ * [ISO/IEC/IEEE 29119 software testing standards : a practitioner's guide](https://lib.inu.ac.kr/search/detail/CATCAZ000000823052) by Stuart Reid
+ * [Test Driven Development](https://www.pearson.com/us/higher-education/program/Beck-Test-Driven-Development-By-Example/PGM206172.html) by Kent Beck
  
 
 
