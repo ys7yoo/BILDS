@@ -9,7 +9,7 @@
   
 2. **E**ffective
  * [Scott Meyers's books](https://www.aristeia.com/books.html)
- * [Effective Python](https://effectivepython.com)by Brett Slatkin ([github](https://github.com/bslatkin/effectivepython))
+ * [Effective Python](https://effectivepython.com) by Brett Slatkin ([github](https://github.com/bslatkin/effectivepython))
 
 3. **R**efactoring 
  * [Refactoring](https://martinfowler.com/books/refactoring.html) by Martin Fowler, 2nd ed.
