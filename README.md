@@ -1,4 +1,4 @@
-# BIL Development Standard (BDS)
+# BIL Development Standard (BILDS)
 
 
 ## Coding standard: *CERT*
