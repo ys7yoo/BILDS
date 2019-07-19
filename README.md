@@ -1,7 +1,7 @@
 # BIL Development Standard (BDS)
 
 
-## Coding standard - *CERT*
+## Coding standard: *CERT*
 
 1. **C**lean
  * [Clean code (book) by Robert C. Martin](https://www.oreilly.com/library/view/clean-code/9780136083238)
