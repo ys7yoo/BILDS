@@ -15,6 +15,10 @@
  * [Refactoring by Martin Fowler, 2nd ed.](https://martinfowler.com/books/refactoring.html)
  * [Continuous Refactoring](https://www.codit.eu/blog/continuous-refactoring/)
 
+4. Test, test, and test
+ * [ISO/IEC/IEEE 29119 software testing standards : a practitioner's guide by Stuart Reid](https://lib.inu.ac.kr/search/detail/CATCAZ000000823052)
+ * [Test Driven Development by Kent Beck ](https://www.pearson.com/us/higher-education/program/Beck-Test-Driven-Development-By-Example/PGM206172.html)
+ 
 
 
 ## Unit Test
