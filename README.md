@@ -19,7 +19,7 @@
  * [ISO/IEC/IEEE 29119 software testing standards: a practitioner's guide](https://lib.inu.ac.kr/search/detail/CATCAZ000000823052) by Stuart Reid
  * [Test Driven Development](https://www.pearson.com/us/higher-education/program/Beck-Test-Driven-Development-By-Example/PGM206172.html) by Kent Beck
  
-## Processes 
+## Life Cycle & Processes 
 Depending on the goal of the project, you may choose one of the four sets of development processes
 
 1. Exploratory Data Analysis
