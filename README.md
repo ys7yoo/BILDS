@@ -40,13 +40,16 @@ Depending on the goal of the project, you may choose one of the following.
  * DO-331 Model-Based Development and Verification Supplement to DO-178C and DO-278A
 
 
-## Unit test
+
+## Two pillars for high quality code
+
+### 1. Unit test
 Take responsibility for your code!
 
-### Python
-* [`unittest`](https://docs.python.org/3/library/unittest.html)
 
-## Review
+* Python [`unittest`](https://docs.python.org/3/library/unittest.html)
+
+### 2. Review
 Improve quality by team work!
 
 * [The `Job Aid` from FAA](https://elsmar.com/elsmarqualityforum/attachments/jobaid-r1-1-pdf.14401)
