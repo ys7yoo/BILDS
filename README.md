@@ -16,7 +16,7 @@
  * [Continuous Refactoring](https://www.codit.eu/blog/continuous-refactoring/)
 
 4. **T**est, test, and test
- * [ISO/IEC/IEEE 29119 software testing standards : a practitioner's guide](https://lib.inu.ac.kr/search/detail/CATCAZ000000823052) by Stuart Reid
+ * [ISO/IEC/IEEE 29119 software testing standards: a practitioner's guide](https://lib.inu.ac.kr/search/detail/CATCAZ000000823052) by Stuart Reid
  * [Test Driven Development](https://www.pearson.com/us/higher-education/program/Beck-Test-Driven-Development-By-Example/PGM206172.html) by Kent Beck
  
 
