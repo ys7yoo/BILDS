@@ -1,21 +1,21 @@
 # BIL Development Standard (BDS)
 
 
-## Coding standard
+## Coding standard (CERT)
 
-1. Clean
+1. **C**lean
  * [Clean code (book) by Robert C. Martin](https://www.oreilly.com/library/view/clean-code/9780136083238)
  * [video](https://www.oreilly.com/library/view/clean-code/9780134661742)
   
-2. Effective
+2. **E**ffective
  * [Scott Meyers's books](https://www.aristeia.com/books.html)
  * [Effective Python by Brett Slatkin](https://effectivepython.com) [github](https://github.com/bslatkin/effectivepython)
 
-3. Refactoring 
+3. **R**efactoring 
  * [Refactoring by Martin Fowler, 2nd ed.](https://martinfowler.com/books/refactoring.html)
  * [Continuous Refactoring](https://www.codit.eu/blog/continuous-refactoring/)
 
-4. Test, test, and test
+4. **T**est, test, and test
  * [ISO/IEC/IEEE 29119 software testing standards : a practitioner's guide by Stuart Reid](https://lib.inu.ac.kr/search/detail/CATCAZ000000823052)
  * [Test Driven Development by Kent Beck ](https://www.pearson.com/us/higher-education/program/Beck-Test-Driven-Development-By-Example/PGM206172.html)
  
