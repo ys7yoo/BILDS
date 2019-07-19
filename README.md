@@ -23,7 +23,7 @@
 Depending on the goal of your project, choose one of the following.
 
 1. Exploratory Data Analysis (EDA)
- * iterative  
+ * iterative: explore, finding, explore, finding, ...
  * use statistics and figures
  * tools: Jupyter notebook or Matlab
 
