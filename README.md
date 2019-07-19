@@ -20,7 +20,7 @@
  * [Test Driven Development](https://www.pearson.com/us/higher-education/program/Beck-Test-Driven-Development-By-Example/PGM206172.html) by Kent Beck
  
 ## Life Cycle & Processes 
-Depending on the goal of the project, you may choose one of the following.
+Depending on the goal of your project, choose one of the following.
 
 1. Exploratory Data Analysis (EDA)
  * iterative  
