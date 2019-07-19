@@ -22,7 +22,7 @@
 ## Life Cycle & Processes 
 Depending on the goal of the project, you may choose one of the following.
 
-1. Exploratory Data Analysis
+1. Exploratory Data Analysis (EDA)
  * iterative  
  * use statistics and figures
  * tools: Jupyter notebook or Matlab
