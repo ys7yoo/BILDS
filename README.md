@@ -1,5 +1,15 @@
 # BIL Development Standard (BDS)
 
+
+## Coding standard
+
+1. Clean code by Robert C. Martin
+ * [book](https://www.oreilly.com/library/view/clean-code/9780136083238)
+ * [video](https://www.oreilly.com/library/view/clean-code/9780134661742)
+ 
+2. Effective code
+
+
 ## Unit Test
 ### Python
 * [`unittest`](https://docs.python.org/3/library/unittest.html)
