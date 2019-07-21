@@ -32,7 +32,7 @@ Depending on the goal of your project, choose one of the following.
  * tools: pencil and paper, white board, Matlab, Jupyter + PyCharm
  
 3. Automotive
- * [Automotive SPICE](http://www.automotivespice.com/fileadmin/software-download/Automotive_SPICE_PAM_30.pdf)
+ * [Automotive SPICE](http://www.automotivespice.com/fileadmin/software-download/Automotive_SPICE_PAM_30.pdf) ([Korean](http://www.automotivespice.com/fileadmin/software-download/AutomotiveSPICE_PAM_31_Korean.pdf))
  * ISO 26262
  
 4. Avionics
