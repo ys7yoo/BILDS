@@ -12,7 +12,7 @@
  * [Effective Python](https://effectivepython.com) by Brett Slatkin ([github](https://github.com/bslatkin/effectivepython))
 
 3. **R**efactoring 
- * [Refactoring, 2nd ed.](https://martinfowler.com/books/refactoring.html) by Martin Fowler
+ * [Refactoring (2nd ed.)](https://martinfowler.com/books/refactoring.html) by Martin Fowler
  * [Continuous Refactoring](https://www.codit.eu/blog/continuous-refactoring/)
 
 4. **T**est, test, and test
